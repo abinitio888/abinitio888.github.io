@@ -1,0 +1,19 @@
+# Site settings
+title: Chengjun Jin blog
+email:
+description: "I'm smart enough to know that I'm dumb.
+              -- Richard Feynman"
+baseurl: ""
+url: "http://abinitio888.github.io"
+twitter_username:
+github_username: abinitio
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
