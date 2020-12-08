@@ -166,7 +166,9 @@ For each task, the outputs contains `stderr.txt` and `stdout.txt`.
 </div>
 
 ## Azure Container Instance vs AKS vs Azure Batch
-> Why Azure batch is recommened over Azure Container Instances and AKS for batch jobs???
+> Why Azure batch is recommened over Azure Container Instances and AKS for batch jobs?
+
+> One opinion: https://www.linkedin.com/pulse/machine-learning-containers-scale-azure-batch-kubernetes-josh-lane/
 
 > [Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview) is a great solution for any scenario that can operate
 in isolated containers, including simple applications, task automation, and
