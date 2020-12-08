@@ -165,5 +165,19 @@ For each task, the outputs contains `stderr.txt` and `stdout.txt`.
 <div class="thecap">Choosing Azure compute platforms.</div>
 </div>
 
+## Azure Container Instance vs AKS vs Azure Batch
+> Why Azure batch is recommened over Azure Container Instances and AKS for batch jobs???
+
+> [Azure Container Instances](https://docs.microsoft.com/en-us/azure/container-instances/container-instances-overview) is a great solution for any scenario that can operate
+in isolated containers, including simple applications, task automation, and
+build jobs. For scenarios where you need full container orchestration,
+including service discovery across multiple containers, automatic scaling, and
+coordinated application upgrades, we recommend Azure Kubernetes Service (AKS).
+
+- Use Azure Container Instances to run serverless Docker containers in Azure with
+simplicity and speed.
+- Deploy to a container instance on-demand when you develop
+cloud-native apps and you want to switch seamlessly from local development to
+cloud deployment.
 
 
