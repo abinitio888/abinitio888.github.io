@@ -81,7 +81,6 @@ class Data:
     def _prepare_training_master_df(self):
         df_stream_name_1 = self.stream_name_1.df
         df_stream_name_2 = self.stream_name_2.df
-        df = df_stream_name_1 + df_stream_name_2
         df = apply_transformations(df_stream_name_1, df_stream_name_2)
         return df
 
