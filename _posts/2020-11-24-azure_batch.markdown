@@ -49,7 +49,7 @@ Basically you need to create:
 
 ## A machine learning example
 
-> The codes can be found: `git clone git@gitlab.com:abinitio/azure_batch.git`
+> The codes can be found: `git clone git@github.com:abinitio888/azure_batch.git`
 
 
 **Codebase skeleton**.

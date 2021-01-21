@@ -13,7 +13,7 @@ In contrast to academical research projects where novel algorithms are targeted,
 
 Therefore a distributed automated-machine learning framework will be beneficial, not only for quickly testing minimal viable product (MVP), but also for building a solid ground to scale up in the future.
 
-The purpose of this blog is to describe the nuts and bolts of [a home-made AutoML framework](https://gitlab.com/abinitio/ml).
+The purpose of this blog is to describe the nuts and bolts of [a home-made AutoML framework](https://github.com/abinitio888/ml).
 
 
 ### What's machine learning
